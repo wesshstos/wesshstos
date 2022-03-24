@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Weslley Santos, mas pode me chamar de Wess</h1>
 
 - 👨🏾‍🎓: Formação em Análise e Desenvolvimento de Sistemas na Universidade Paulista -  UNIP
-- 👩🏾‍💻: Estudando Desenvolvimento Web e UX/UI Design
+- 👩🏾‍💻: Estudando Desenvolvimento Front-End e UX/UI Design
 - 🔭: Em busca da minha primeira vaga na area de tecnologia
 - 😁: Pronouns: ele/dele
 
